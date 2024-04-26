@@ -1,20 +1,20 @@
 <p align="center">
-    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
-/main/screens/Screenshot01.png" width="30%">
-    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
-/main/screens/Screenshot02.png" width="30%">
-    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
-/main/screens/Screenshot03.png" width="30%">
-    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
-/main/screens/Screenshot04.png" width="30%">
-    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
-/main/screens/Screenshot05.png" width="30%">
-    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
-/main/screens/Screenshot06.png" width="30%">
-    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
-/main/screens/Screenshot07.png" width="30%">
-    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
-/main/screens/Screenshot08.png" width="30%">
+    <img alt="Site-Compras-Vue" 
+    src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue/main/screens/Screenshot01.png" width="30%">
+    <img alt="Site-Compras-Vue" 
+    src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue/main/screens/Screenshot02.png" width="30%">
+    <img alt="Site-Compras-Vue" 
+    src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue/main/screens/Screenshot03.png" width="30%">
+    <img alt="Site-Compras-Vue" 
+    src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue/main/screens/Screenshot04.png" width="30%">
+    <img alt="Site-Compras-Vue" 
+    src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue/main/screens/Screenshot05.png" width="30%">
+    <img alt="Site-Compras-Vue" 
+    src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue/main/screens/Screenshot06.png" width="30%">
+    <img alt="Site-Compras-Vue" 
+    src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue/main/screens/Screenshot07.png" width="30%">
+    <img alt="Site-Compras-Vue" 
+    src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue/main/screens/Screenshot08.png" width="30%">
 </p>
 
 ## Site de Compras
@@ -31,7 +31,7 @@ O projeto foi desenvolvido em Vue.js utilizando o [Visual Studio Code](https://c
 
 ## Hospedagem
 
-O site pode ser acessado [aqui](https://filmaria-curso-vue.netlify.app/).
+O site pode ser acessado [aqui](https://site-compras-vue.netlify.app).
 
 ## Dependências Utilizadas
 
