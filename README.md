@@ -1,19 +1,19 @@
 <p align="center">
-    <img alt="Filmaria" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
+    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
 /main/screens/Screenshot01.png" width="30%">
-    <img alt="Filmaria" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
+    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
 /main/screens/Screenshot02.png" width="30%">
-    <img alt="Filmaria" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
+    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
 /main/screens/Screenshot03.png" width="30%">
-    <img alt="Filmaria" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
+    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
 /main/screens/Screenshot04.png" width="30%">
-    <img alt="Filmaria" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
+    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
 /main/screens/Screenshot05.png" width="30%">
-    <img alt="Filmaria" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
+    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
 /main/screens/Screenshot06.png" width="30%">
-    <img alt="Filmaria" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
+    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
 /main/screens/Screenshot07.png" width="30%">
-    <img alt="Filmaria" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
+    <img alt="Site-Compras-Vue" src="https://raw.githubusercontent.com/LuisGuilhermeCipriani/Site-Compras-Vue
 /main/screens/Screenshot08.png" width="30%">
 </p>
 
